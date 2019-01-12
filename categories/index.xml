@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sindhu Gowda</title>
-    <link>https://Sindhugowda.github.io/categories/</link>
+    <link>https://Sindhucmgowda.github.io/categories/</link>
     <description>Recent content in Categories on Sindhu Gowda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Sindhu Gowda</copyright>
     
-	<atom:link href="https://Sindhugowda.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Sindhucmgowda.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
