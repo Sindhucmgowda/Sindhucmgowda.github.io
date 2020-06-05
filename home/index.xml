@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Sindhu Gowda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Sindhu Gowda</copyright>
+    <copyright>&amp;copy; 2020 Sindhu Gowda</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Sindhucmgowda.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://Sindhucmgowda.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m a graduate student at the University of Toronto advised by Prof. Ashish Khisti. I am broadly interested in Machine Learning applications to healthcare. I am currently working with the Kimel family translational Imagining-Genetics lab at CAMH with Dr. Aristotle Voineskos. I was also recently selected as one of the 100 Leaders of Tomorrow to attend the GAP Summit 2019 at Broad institute of MIT and Harvard. Previously, I have worked on 4G/5G wireless communications.</description>
+      <description>Biography I&amp;rsquo;m a graduate student at the University of Toronto and Vector Institute advised by Prof. Marzyeh Ghassemi. I am broadly interested in Machine Learning applications to healthcare, specifically in causal inference for clinical applications. I was also recently selected as one of the 100 Leaders of Tomorrow to attend the GAP Summit 2019 at Broad institute of MIT and Harvard. Previously, I have worked on 4G/5G wireless communications. I graduated from NIT Rourkela, India in 2017 with an integrated bachelor&amp;rsquo;s and master&amp;rsquo;s degree in Electronics and Communication Engineering.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://Sindhucmgowda.github.io/home/teaching/</guid>
-      <description>University of Toronto ECE421 - Introduction to Machine Learning (Winter 2019), with Prof. Ashish Khisti
+      <description>University of Toronto ECE421 - Introduction to Machine Learning (Winter 2019, Fall 2019), with Prof. Ashish Khisti
 NIT Rourkela Communication System Design (Winter 2017), with Prof. Siddharth Deshmukh</description>
     </item>
     
