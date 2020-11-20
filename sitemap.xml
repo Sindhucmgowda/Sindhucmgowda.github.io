@@ -33,20 +33,25 @@
   </url>
   
   <url>
-    <loc>https://Sindhucmgowda.github.io/publication/vtcjournal/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <loc>https://Sindhucmgowda.github.io/publication/wiml/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Sindhucmgowda.github.io/publication/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Sindhucmgowda.github.io/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Sindhucmgowda.github.io/publication/vtcjournal/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,6 +83,10 @@
   <url>
     <loc>https://Sindhucmgowda.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Sindhucmgowda.github.io/publication/aistats/</loc>
   </url>
   
   <url>
